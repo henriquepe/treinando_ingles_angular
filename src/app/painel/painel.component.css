@@ -1,0 +1,10 @@
+#painel {
+  display: flex;
+  justify-content: space-between;
+  margin: 48px auto;
+  height: 300px;
+  width: 80%;
+  border: solid 2px black;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.527);
+}
